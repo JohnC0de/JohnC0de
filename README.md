@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Carlos</h1>
+<h1 align="center">Hi 👋, My name is João Carlos</h1>
 <h3 align="center">An excited programming student from Brazil, working towards being full stack developer</h3>
 
 - 🔭 I’m currently working on **Finance App**
