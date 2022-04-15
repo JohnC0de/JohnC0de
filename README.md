@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, My name is João Carlos</h1>
-<h3 align="center">An excited programming student from Brazil, working towards being full stack developer</h3>
+<h3 align="center">A energetic full-stack student from Brazil, working to expand my knowledge and professional growth.</h3>
 
 - 🔭 I’m currently working on **Finance App**
 
-- 🌱 I’m currently learning **JS, TypeScript, Nuxt, Firebase, Go**
+- 🌱 I’m currently learning **JS, TypeScript, Nuxt 3, Firebase**
 
-- 💬 Ask me about **Python, HTML, CSS, Vue, RestAPI**
+- 💬 Ask me about **Python, HTML, CSS, Vue 3, RestAPI**
 
 - 📫 How to reach me **joaocarlos.m014@gmail.com**
 
