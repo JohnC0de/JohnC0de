@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, My name is João Carlos</h1>
-<h3 style="text-center;">
+<h3 style="text-align: center;">
   A energetic full-stack student from Brazil, working to expand my knowledge and
   professional growth.
 </h3>
+<style>
+  h1 {
+    background-color: aqua;
+  }
+</style>
+<div style="background-color: black; height: 200px; width: 200px;"></div>
 <link rel="stylesheet" href="style.css">
 
 - 🔭 I’m currently working on **Finance App**
