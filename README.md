@@ -3,6 +3,7 @@
   A energetic full-stack student from Brazil, working to expand my knowledge and
   professional growth.
 </h3>
+<link rel="stylesheet" href="style.css">
 
 - 🔭 I’m currently working on **Finance App**
 
@@ -129,8 +130,7 @@
   </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"
       alt="pandas" width="40" height="40" />
   </a>
 
