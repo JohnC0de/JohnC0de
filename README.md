@@ -3,16 +3,14 @@
   A energetic full-stack student from Brazil, working to expand my knowledge and
   professional growth.
 </h3>
-<div style="background-color: black; height: 200px; width: 200px;"></div>
-<link rel="stylesheet" href="style.css">
 
 - 🔭 I’m currently working on **Finance App**
 
-- 🌱 I’m currently learning **JS, TypeScript, Nuxt 3, Firebase**
+- 🌱 I’m currently learning **React, Node.js, TypeScript, Express, Nuxt 3, Firebase**
 
-- 💬 Ask me about **Python, HTML, CSS, Vue 3, RestAPI**
+- 💬 Ask me about **JavaScript, Python, Node.js**
 
-- 📫 How to reach me **joaocarlos.m014@gmail.com**
+- 📫 How to reach me **joaocarlos.m015@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
