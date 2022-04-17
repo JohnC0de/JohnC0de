@@ -1,18 +1,35 @@
-<img align="right" src="https://gist.githubusercontent.com/JohnC0de/825b3dcf3eaa852478d3e14d2810362f/raw/5e1c28d6f23b2ebb4dd009d9fc3908045f2fb12b/card.svg">
-<h1 align="center">Hi 👋, My name is João Carlos</h1>
+<img align="right"
+  src="https://gist.githubusercontent.com/JohnC0de/825b3dcf3eaa852478d3e14d2810362f/raw/5e1c28d6f23b2ebb4dd009d9fc3908045f2fb12b/card.svg">
+<h1 align="center">Hi <img height="30" src="./assets/Hi.gif">, Welcome to my profile</h1>
 <h3 align="center">
   A energetic full-stack student from Brazil, working to expand my knowledge and
   professional growth.
 </h3>
 
-- 🔭 I’m currently working on **Finance App**
+- 💰 I'm currently working on a side project called **Finance App**
 
-- 🌱 I’m currently learning **React, Node.js, TypeScript, Express, Nuxt 3, Firebase**
+- 💡 I'm studying everyday to learn these: **React, Node.js, TypeScript, Express, Nuxt 3, Firebase**
 
-- 💬 Ask me about **JavaScript, Python, Node.js**
+- 💬 If you need any help with these: **JavaScript, Python, Node.js** feel free to contact me, i'll help as I can
 
-- 📫 How to reach me **joaocarlos.m015@gmail.com**
+<h4 align="center">You can reach my on these platforms:</h4>
+<p align="center">
 
+  <a href="https://discordapp.com/users/167742409822830592">
+    <img
+      src="https://img.shields.io/static/v1?label=Discord&message=Ninjonas%236919&color=black&logo=discord&colorA=white&style=for-the-badge"
+      alt="Discord -
+    Ninjonas#6919">
+  </a>
+  <a href="https://www.linkedin.com/in/joaocarloscode/">
+    <img
+      src="https://img.shields.io/static/v1?label=LinkedIn&message=joaocarloscode&color=black&style=for-the-badge&logo=linkedin&logoColor=blue"
+      alt="LinkedIn -
+    joaocarloscode">
+  </a>
+
+</p>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -152,5 +169,7 @@
   </a>
 
 </p>
-
-<img src="https://gist.githubusercontent.com/JohnC0de/167ea2315ac79a2af65aee5e6014affc/raw/8fd3cc64c6e578013a450432b0f14cbd236639ec/waves.svg" alt="waves">
+<hr>
+<img
+  src="https://gist.githubusercontent.com/JohnC0de/167ea2315ac79a2af65aee5e6014affc/raw/8fd3cc64c6e578013a450432b0f14cbd236639ec/waves.svg"
+  alt="waves">
