@@ -1,3 +1,4 @@
+<img align="right" src="https://gist.githubusercontent.com/JohnC0de/825b3dcf3eaa852478d3e14d2810362f/raw/5e1c28d6f23b2ebb4dd009d9fc3908045f2fb12b/card.svg">
 <h1 align="center">Hi 👋, My name is João Carlos</h1>
 <h3 align="center">
   A energetic full-stack student from Brazil, working to expand my knowledge and
