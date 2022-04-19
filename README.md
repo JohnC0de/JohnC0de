@@ -169,7 +169,6 @@
   </a>
 
 </p>
-<hr>
 <img
   src="https://gist.githubusercontent.com/JohnC0de/167ea2315ac79a2af65aee5e6014affc/raw/8fd3cc64c6e578013a450432b0f14cbd236639ec/waves.svg"
   alt="waves">
