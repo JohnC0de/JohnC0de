@@ -23,7 +23,7 @@
   </a>
   <a href="https://www.linkedin.com/in/joaocarloscode/">
     <img
-      src="https://img.shields.io/static/v1?label=LinkedIn&message=joaocarloscode&color=black&style=for-the-badge&logo=linkedin&logoColor=blue"
+      src="https://img.shields.io/static/v1?label=LinkedIn&message=joaocarloscode&color=black&style=for-the-badge&logo=linkedin&logoColor=blue&colorA=white"
       alt="LinkedIn -
     joaocarloscode">
   </a>
