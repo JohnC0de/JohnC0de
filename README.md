@@ -51,17 +51,6 @@
     <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge" alt="">
   </a>
 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs" width="35" height="35" />
-    <img src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge" alt="">
-  </a>
-
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="35" height="35" />
-    <img src="https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge" alt="">
-  </a>
-
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35"
       height="35" />
@@ -84,12 +73,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"
       alt="mongodb" width="35" height="35" />
     <img src="https://img.shields.io/badge/Mongodb-black?style=for-the-badge" alt="">
-  </a>
-
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis" width="35" height="35" />
-    <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge" alt="">
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -120,52 +103,10 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35" />
     <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge" alt="">
   </a>
-
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35" />
-    <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge" alt="">
-  </a>
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35" />
-    <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge" alt="">
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img height="35" width="35"
-      src="https://gist.githubusercontent.com/JohnC0de/17a6ef196ffe6709cdbfa514fb2bf1bc/raw/99ff840b5e5817a0beb0afab34acf021006209ab/bash.svg"
-      alt="">
-    <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge" alt="">
-  </a>
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="35" height="35" />
     <img src="https://img.shields.io/badge/Python-black?style=for-the-badge" alt="">
-  </a>
-
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img width="35" height="35"
-      src="https://gist.githubusercontent.com/JohnC0de/d83f5f1de24d6879b06dc71db3415a58/raw/3851f8d482b868ffab6795fb4d2e09079243a968/django.svg"
-      alt="">
-    <img src="https://img.shields.io/badge/Django-black?style=for-the-badge" alt="">
-  </a>
-
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35" />
-    <img src="https://img.shields.io/badge/Opencv-black?style=for-the-badge" alt="">
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"
-      alt="pandas" width="35" height="35" />
-    <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge" alt="">
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35"
-      height="35" />
-    <img src="https://img.shields.io/badge/C-black?style=for-the-badge" alt="">
   </a>
 
 </p>
