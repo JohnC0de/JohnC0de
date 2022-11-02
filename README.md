@@ -8,9 +8,9 @@
 
 - 💰 I'm currently working on a side project called **Finance App**
 
-- 💡 I'm studying everyday to learn these: **React, Node.js, TypeScript, Express, Nuxt 3, Firebase**
+- 💡 I'm studying everyday to learn these: **Next, React, Node, TypeScript, Nest, Serverless (AWS), Fastify**
 
-- 💬 If you need any help with these: **JavaScript, Python, Node.js** feel free to contact me, i'll help as I can
+- 💬 If you need any help with these: **JS/TS, Adonis, Node/Bun, Python, GoLang ** feel free to contact me, i'll help as I can
 
 <h4 align="center">You can reach my on these platforms:</h4>
 <p align="center">
