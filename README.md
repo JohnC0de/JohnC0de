@@ -1,6 +1,6 @@
 <img align="right"
   src="https://gist.githubusercontent.com/JohnC0de/825b3dcf3eaa852478d3e14d2810362f/raw/5e1c28d6f23b2ebb4dd009d9fc3908045f2fb12b/card.svg">
-<h1 align="center">Hi <img height="30" src="./assets/Hi.gif">, Welcome to my profile</h1>
+<h1 align="center">Hi <img height="30" src="./assets/Hi.gif"><br/> Welcome to my profile!</h1>
 <h3 align="center">
   A energetic full-stack student from Brazil, working to expand my knowledge and
   professional growth.
@@ -10,7 +10,7 @@
 
 - 💡 I'm studying everyday to learn these: **Next, React, Node, TypeScript, Nest, Serverless (AWS), Fastify**
 
-- 💬 If you need any help with these: **JS/TS, Adonis, Node/Bun, Python, GoLang ** feel free to contact me, i'll help as I can
+- 💬 If you need any help with these: **JS/TS, Adonis, Node/Bun, Python, GoLang** feel free to contact me, i'll help as I can
 
 <h4 align="center">You can reach my on these platforms:</h4>
 <p align="center">
