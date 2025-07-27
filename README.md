@@ -1,7 +1,5 @@
 # Hey, I'm João Carlos 👋
 
-<img align="right" src="https://gist.githubusercontent.com/JohnC0de/825b3dcf3eaa852478d3e14d2810362f/raw/5e1c28d6f23b2ebb4dd009d9fc3908045f2fb12b/card.svg" width="350">
-
 Full-stack developer from Brazil who likes building things that solve real problems.
 
 ## What I'm working on 🚀
